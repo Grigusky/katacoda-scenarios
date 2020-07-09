@@ -16,7 +16,7 @@ If you want to check the branch list
 
 If you want move on the next branc
 
-`git checkout dev`{{execute}}
+`git checkout -b dev`{{execute}}
 
 If you want to create and move on a new branch
 
