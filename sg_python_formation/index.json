@@ -1,0 +1,39 @@
+{
+    "title": "python learning session sg",
+    "description": "Learn the basic of python",
+    "details": {
+      "steps": [
+        {
+          "title": "learn to use git",
+          "text": "first.md"
+        },
+        {
+          "title": "code in python",
+          "text": "second.md"
+        },
+        {
+          "title": "pytest",
+          "text": "third.md"
+        }
+      ],
+      "intro": {
+        "text": "introduction.md",
+        "code": "env-init.sh",
+        "credits": "By Grégoire Meunier"
+      },
+      "finish": {
+        "text": "conclusion.md"
+      }
+    },
+    "files": [],
+    "environment": {
+      "uilayout": "editor-terminal",
+      "uieditorpath": "/root/opentracing-tutorial",
+      "showdashboard": true,
+      "dashboards": [{"name": "Jaeger UI", "port": 16686}]
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
+  
