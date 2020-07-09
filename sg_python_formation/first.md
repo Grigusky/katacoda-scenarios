@@ -6,7 +6,7 @@ Hello, welcome on your first training session on Katacoda.
 
 First will check if you know your basics.
 
-`git clone XXX`{{execute}}
+`git clone https://github.com/Grigusky/test_kata.git`{{execute}}
 
 ## Manage your branch
 
