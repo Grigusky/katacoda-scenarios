@@ -42,7 +42,7 @@ Now we can add this file to the history, and push it on the remote server to sha
 
 `git add workdir/frankenstein.txt`{{execute}}
 
-`git commit -m "your message"`{{execute}}
+`git add ."`{{execute}}
 
 `git commit -m "your message"`{{execute}}
 
