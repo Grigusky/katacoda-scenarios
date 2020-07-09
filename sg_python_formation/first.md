@@ -30,7 +30,7 @@ When you do something inside your project, each change is watch by git, if you w
 
 The previous command does not return interesting information, so we gonna start by adding a file:
 
-`echo "he is alive" > workdir/frankenstein.txt `{{execute}}
+`echo "he is alive" >> workdir/frankenstein.txt `{{execute}}
 
 `workdir/frankenstein.txt`{{open}}
 
