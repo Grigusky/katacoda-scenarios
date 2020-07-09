@@ -3,6 +3,8 @@
 In this small tutorial we gonna learn some python.
 You can test this by typing python inside 
 
+`python3`{{execute}}
+
 ## Create a variable and operators
 
 when you want to stock data in your program you must create a variable. you can write it like this:
