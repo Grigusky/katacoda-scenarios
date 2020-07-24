@@ -1,0 +1,31 @@
+{
+    "title": "acculturation watchdog",
+    "description": "Learn the basic of python",
+    "details": {
+      "steps": [
+        {
+          "title": "learn to use git",
+          "text": "first.md"
+        }
+      ],
+      "intro": {
+        "text": "introduction.md",
+        "code": "env-init.sh",
+        "credits": "By Grégoire Meunier"
+      },
+      "finish": {
+        "text": "conclusion.md"
+      }
+    },
+    "files": [],
+    "environment": {
+      "uilayout": "editor-terminal",
+      "uieditorpath": "/root/learn",
+      "showdashboard": true,
+      "dashboards": [{"name": "Jaeger UI", "port": 16686}]
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
+  
