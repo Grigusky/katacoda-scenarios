@@ -15,12 +15,12 @@
       },
       "finish": {
         "text": "conclusion.md"
+      },
+      "assets": {
+        "client":[
+          {"file": "files/", "target": "/root/test", "chmod": "+x"}
+        ]
       }
-    },
-    "assets": {
-      "client":[
-        {"file": "files/", "target": "/root/test", "chmod": "+x"}
-      ]
     },
     "environment": {
       "uilayout": "vscode-terminal-split",
