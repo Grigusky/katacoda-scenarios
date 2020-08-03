@@ -19,12 +19,12 @@
     },
     "assets": {
       "client":[
-        {"file": "asset/", "target": "~", "chmod": "+x"}
+        {"file": "asset/", "target": "/root/test", "chmod": "+x"}
       ]
     },
     "environment": {
       "uilayout": "vscode-terminal-split",
-      "uieditorpath": "/root/learn",
+      "uieditorpath": "/root/test",
       "showdashboard": true,
       "dashboards": [{"name": "api", "port": 5000}]
     },
