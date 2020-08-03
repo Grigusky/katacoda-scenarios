@@ -17,7 +17,11 @@
         "text": "conclusion.md"
       }
     },
-    "files": [],
+    "assets": {
+      "client":[
+        {"file": "asset/", "target": "~", "chmod": "+x"}
+      ]
+    },
     "environment": {
       "uilayout": "vscode-terminal-split",
       "showide": true,
