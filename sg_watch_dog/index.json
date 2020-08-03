@@ -19,13 +19,13 @@
     },
     "files": [],
     "environment": {
-      "uilayout": "editor-terminal",
+      "uilayout": "vscode-terminal-split",
       "uieditorpath": "/root/learn",
       "showdashboard": true,
       "dashboards": [{"name": "api", "port": 5000}]
     },
     "backend": {
-      "imageid": "ubuntu"
+      "imageid": "ubuntu:2004"
     }
   }
   
