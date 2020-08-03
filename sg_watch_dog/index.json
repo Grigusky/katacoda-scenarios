@@ -24,7 +24,6 @@
     },
     "environment": {
       "uilayout": "vscode-terminal-split",
-      "showide": true,
       "uieditorpath": "/root/learn",
       "showdashboard": true,
       "dashboards": [{"name": "api", "port": 5000}]
