@@ -22,7 +22,7 @@
       "uilayout": "editor-terminal",
       "uieditorpath": "/root/learn",
       "showdashboard": true,
-      "dashboards": [{"name": "Jaeger UI", "port": 16686}]
+      "dashboards": [{"name": "api", "port": 5000}]
     },
     "backend": {
       "imageid": "ubuntu"
